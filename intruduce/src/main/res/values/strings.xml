@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">intruduce</string>
+    <string name="screen_info_introduce">
+        屏幕参数公式：     \n
+        density=dpi/160 \n
+        px=density*dp   \n
+
+        推导出：           \n
+        通过px求得dp       \n
+        dp=px/dpi*160    \n
+        通过dp求得px       \n
+        px=dpi/160*dp    \n
+    </string>
+</resources>

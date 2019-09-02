@@ -1,0 +1,1 @@
+include ':app', ':intruduce', ':screencompat1', ':screencompat2', ':screencompat3', ':screencompat4'

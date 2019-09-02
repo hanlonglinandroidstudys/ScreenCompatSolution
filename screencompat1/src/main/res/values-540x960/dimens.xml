@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--基准为 1080x1920-->
+    <dimen name="x1">0.5px</dimen>
+    <dimen name="x2">1px</dimen>
+    <dimen name="x3">1.5px</dimen>
+    <dimen name="x4">2px</dimen>
+    <dimen name="x5">2.5px</dimen>
+
+    <dimen name="x360">180px</dimen>
+    <dimen name="x1080">540px</dimen>
+
+</resources>
